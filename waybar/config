@@ -1,0 +1,32 @@
+{
+  "layer": "bottom",
+  "position": "top",
+  "height": 40,
+  "modules-left": [
+    "hyprland/workspaces"
+  ],
+  "modules-center": [],
+  "modules-right": [],
+  "hyprland/workspaces": {
+    "format": "{icon}",
+    "on-click": "activate",
+    "format-icons": {
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "urgent": "",
+      "active": "",
+      "default": ""
+    },
+    "sort-by-name": true,
+    "sort-by-number": true,
+    "persistent-workspaces": {
+      "2": [],
+      "3": [],
+      "4": [],
+      "5": []
+    }
+  }
+}
