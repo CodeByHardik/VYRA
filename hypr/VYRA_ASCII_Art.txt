@@ -5,8 +5,6 @@ ____   _________.___.__________    _____
    \___/    / ______| |____|_  /\____|__  /
             \/               \/         \/ 
             
-            
-            
  ___      ___  ___  ___  _______        __      
 |"  \    /"  ||"  \/"  |/"      \      /""\     
  \   \  //  /  \   \  /|:        |    /    \    
@@ -14,9 +12,7 @@ ____   _________.___.__________    _____
    \.    //     /   /   //      /   //  __'  \  
     \\   /     /   /   |:  __   \  /   /  \\  \ 
      \__/     |___/    |__|  \___)(___/    \___)
-                                                
-                                                
-                                                
+                                                                              
                                                 
  ██▒   █▓▓██   ██▓ ██▀███   ▄▄▄      
 ▓██░   █▒ ▒██  ██▒▓██ ▒ ██▒▒████▄    
@@ -58,8 +54,9 @@ ____   _________.___.__________    _____
      
      
      
-     
-     
-NOTE: This file is created just for fun :D
-Generated with the help of https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type+Something+&x=none&v=4&h=4&w=80&we=false
 
+NOTE: This file is created just for fun :D
+
+Font: Tested with JetBrainsMonoNL Nerd Font Mono
+
+Generated with the help of https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type+Something+&x=none&v=4&h=4&w=80&we=false
