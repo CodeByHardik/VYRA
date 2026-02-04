@@ -37,8 +37,3 @@ Contributions, ideas, and improvements are welcome.
 [end_4/dots-hyprland](https://github.com/end-4/dots-hyprland).,
 [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles).,
 ---
-
-### 🪶 License  
-[MIT License](./LICENSE) © 2025 [CodeByHardik](https://github.com/CodeByHardik)  
-
----
